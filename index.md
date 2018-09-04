@@ -5,7 +5,7 @@ Hi! My name is Borja and I'm a graduated in Design and Development of Videogames
 Here you'll find some of the projects I made during my studies, as well as other independent projects.
 
 
-**[Curriculum vitae](https://drive.google.com/file/d/1AT1B11lCdQx50sgx5UgNbNDYoRjR7yub/view?usp=sharing)**
+**[Curriculum vitae](https://drive.google.com/open?id=1AT1B11lCdQx50sgx5UgNbNDYoRjR7yub)**
 
 **Contact:** borjavillarino1994@gmail.com
 
