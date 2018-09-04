@@ -5,13 +5,11 @@ Hi! My name is Borja and I'm a graduated in Design and Development of Videogames
 Here you'll find some of the projects I made during my studies, as well as other independent projects.
 
 
-***
 **Curriculum vitae:** https://drive.google.com/open?id=0B5Ie2J4fFof6X09zU1ktTklOb3c
 
 **Contact:** borjavillarino1994@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/borjavillarino
-***
 
 # Projects
 ## Paintball: The Game (Final Degree Project)
