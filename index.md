@@ -11,6 +11,8 @@ Here you'll find some of the projects I made during my studies, as well as other
 
 **Linkedin:** <https://www.linkedin.com/in/borjavillarino>
 
+**Github:** <https://github.com/neker94>
+
 # Projects
 ## Paintball: The Game (Final Degree Project)
 ![](http://i.imgur.com/8Vt8XE6.png)
