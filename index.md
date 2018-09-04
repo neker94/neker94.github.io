@@ -9,21 +9,21 @@ Here you'll find some of the projects I made during my studies, as well as other
 
 **Contact:** borjavillarino1994@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/borjavillarino
+**Linkedin:** <https://www.linkedin.com/in/borjavillarino>
 
 # Projects
 ## Paintball: The Game (Final Degree Project)
 ![](http://i.imgur.com/8Vt8XE6.png)
 
-**Trailer:** https://www.youtube.com/watch?v=MYa330V6N44
+**Trailer:** <https://www.youtube.com/watch?v=MYa330V6N44>
 
-**Gameplay:** https://www.youtube.com/watch?v=rEkMvLffe08
+**Gameplay:** <https://www.youtube.com/watch?v=rEkMvLffe08>
 
 *Paintball: The Game* is a multiplayer online first person shooter inspired by the sport also known as Paintball. Two teams of 5 players compete between each other to achieve the maximum points possible at the end of each round, eliminating players of the enemy team while avoiding enemy paintballs flying through the level.
 
 **Tools:** Unity 5, Visual Studio 2015, 3DS Max 2016 and Krita
 
-**Game document:** https://drive.google.com/open?id=0B5Ie2J4fFof6M3RIQ3NqNC1uNUU
+**Game document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6M3RIQ3NqNC1uNUU>
 
 ## HIVE (internship)
 ![](http://images.akamai.steamusercontent.com/ugc/455235530359170660/8DFE2FA74B8D5EE424E336D9A03CFA6338412D9F/)
@@ -67,7 +67,7 @@ Bikes: Master Racers is a racing game where the player controls a bike and compe
 ![Game mode](http://i.imgur.com/lm0tvwq.png)
 ![Editor mode](http://i.imgur.com/NgmjYyc.png)
 
-**Tech trailer:** https://www.youtube.com/watch?v=hN1kjpY00nI
+**Tech trailer:** <https://www.youtube.com/watch?v=hN1kjpY00nI>
 
 John's Magical Adventure is a 2D adventure game inspired by The Legend of Zelda developed for Internet browsers. Help John reach the portal at the end of the level while defeating monsters using different spells.
 
@@ -87,13 +87,13 @@ These are different documents made for the subject Conceptual Design of Videogam
 
 ### Privateer
 
-**One-sheet document:** https://drive.google.com/open?id=0B5Ie2J4fFof6SmUtcjBTTFQ0c3M
+**One-sheet document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6SmUtcjBTTFQ0c3M>
 
-**Ten-pages document:** https://drive.google.com/open?id=0B5Ie2J4fFof6SlE1aVQyWWN1cDQ
+**Ten-pages document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6SlE1aVQyWWN1cDQ>
 
 ### The Last Survivors
 
-**One-sheet document:** https://drive.google.com/open?id=0B5Ie2J4fFof6RTJzVHFrOUhMRE0
+**One-sheet document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6RTJzVHFrOUhMRE0>
 
 **Ten-pages document:** https://drive.google.com/open?id=0B5Ie2J4fFof6SWpJMTRkckxJT0U
 
