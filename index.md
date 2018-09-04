@@ -95,14 +95,14 @@ These are different documents made for the subject Conceptual Design of Videogam
 
 **One-sheet document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6RTJzVHFrOUhMRE0>
 
-**Ten-pages document:** https://drive.google.com/open?id=0B5Ie2J4fFof6SWpJMTRkckxJT0U
+**Ten-pages document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6SWpJMTRkckxJT0U>
 
 ### Arzor Online
 
-**One-sheet document:** https://drive.google.com/open?id=0B5Ie2J4fFof6elZEOExORXgwMUU
+**One-sheet document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6elZEOExORXgwMUU>
 
-**Ten-pages document:** https://drive.google.com/open?id=0B5Ie2J4fFof6bnRmc1FrWDdDS1U
+**Ten-pages document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6bnRmc1FrWDdDS1U>
 
-**GDD:** https://drive.google.com/open?id=0B5Ie2J4fFof6c0NXSkljSWRrRTg
+**GDD:** <https://drive.google.com/open?id=0B5Ie2J4fFof6c0NXSkljSWRrRTg>
 
 ***
