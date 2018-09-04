@@ -1,7 +1,9 @@
 # About me
-Hi! My name is Borja and I'm a graduated in Design and Development of Videogames. My journey started when one day I discovered a new degree at the Jaume I University, they came to my town and presented it, and since I was deciding where to study and I always loved playing games with my friends, I decided to study it. Once the semester started, it was a strange feeling, as I didn't know a single thing about game development, but I started to feel curiosity and started reading everything I could find about the subject. Finally, after 4 years of hard work, I ended my degree having special interest in programming.
+
+Hi! My name is Borja and I'm a graduated in Design and Development of Videogames and more recently in Graphics, Videogames an VR. My journey started when one day I discovered a new degree at the Jaume I University, they came to my town and presented it, and since I was deciding where to study and I always loved playing games with my friends, I decided to study it. Once the semester started, it was a strange feeling, as I didn't know a single thing about game development, but I started to feel curiosity and started reading everything I could find about the subject. Finally, after 4 years of hard work, I ended my degree having special interest in programming. Later on, I went to a Master's course about Graphics, Videogames an VR at the Rey Juan Carlos University in Madrid, where my master's thesis was focused in procedural generation and visualization using CUDA and OpenGL.
 
 Here you'll find some of the projects I made during my studies, as well as other independent projects.
+
 
 ***
 **Curriculum vitae:** https://drive.google.com/open?id=0B5Ie2J4fFof6X09zU1ktTklOb3c
@@ -106,10 +108,3 @@ These are different documents made for the subject Conceptual Design of Videogam
 **GDD:** https://drive.google.com/open?id=0B5Ie2J4fFof6c0NXSkljSWRrRTg
 
 ***
-
-## Unity Twitch Chat
-![](http://i.imgur.com/AoMBLKD.png)
-
-Simple and easy to use Unity Package that allows to implement a Twitch chat inside a Unity project.
-
-**Download link:** https://drive.google.com/open?id=0B5Ie2J4fFof6Q3dIeEZvdHhiYkU
