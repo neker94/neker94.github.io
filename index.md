@@ -30,7 +30,7 @@ Here you'll find some of the projects I made during my studies, as well as other
 ## HIVE (internship)
 ![](http://images.akamai.steamusercontent.com/ugc/455235530359170660/8DFE2FA74B8D5EE424E336D9A03CFA6338412D9F/)
 
-[HIVE](https://steamcommunity.com/sharedfiles/filedetails/?id=655839737) is a multiplayer online side-scrolling sci-fi shooter where two teams up to 10 players fight on HIVE's planet core. The battle is set on an hexagonal shaped map splitted into 6 different zones, each one with its own gravity direction. You can play heroes of different races and equip them with weapons and abilities of your choice to fit your favourite game style and combine with the rest of the team to reach the most competitive set.
+[HIVE](https://store.steampowered.com/app/468330/HIVE_Altenum_Wars/) is a multiplayer online side-scrolling sci-fi shooter where two teams up to 10 players fight on HIVE's planet core. The battle is set on an hexagonal shaped map splitted into 6 different zones, each one with its own gravity direction. You can play heroes of different races and equip them with weapons and abilities of your choice to fit your favourite game style and combine with the rest of the team to reach the most competitive set.
 
 **Position:** gameplay programmer
 
