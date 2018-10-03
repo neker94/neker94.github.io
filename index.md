@@ -14,6 +14,7 @@ Here you'll find some of the projects I made during my studies, as well as other
 **Github:** <https://github.com/neker94>
 
 # Projects
+
 ## Paintball: The Game (Final Degree Project)
 ![](http://i.imgur.com/8Vt8XE6.png)
 
@@ -37,6 +38,21 @@ Here you'll find some of the projects I made during my studies, as well as other
 **Tasks:** implementation of different weapons and abilities for the game.
 
 **Tools:** Unreal Engine 4 and Visual Studio Community.
+
+
+## 2038 Effect
+![](https://i.imgur.com/jslwk0g.png)
+![](https://i.imgur.com/5RTc5yt.png)
+
+Defend your lab using your loyal robots against cute mutated scientists who have gone rogue! In this game you'll have to build your tower and fill it with your creations while fighting against mutants while managing your resources. Mobile game presented at the [Hackathon Castellon 2018](https://www.hackathoncastellon.com/) developed in less than 40 hours.
+
+**Developed with:** Oxana Vorobieva (art).
+
+**Position:** gameplay programmer.
+
+**Tasks:** controls, gameplay mechanics and UI implementation.
+
+**Tools:** Unity, Microsoft Visual Studio.
 
 ## Destruction and Euphoria
 ![](http://i.imgur.com/yrFddnb.jpg)
@@ -80,21 +96,6 @@ John's Magical Adventure is a 2D adventure game inspired by The Legend of Zelda 
 **Tasks:** creating a camera and level editor for the game, and the custom physics used in the game.
 
 **Tools:** Flash Develop (IDE).
-
-
-## 2038 Effect
-![](https://i.imgur.com/jslwk0g.png)
-![](https://i.imgur.com/5RTc5yt.png)
-
-
-
-**Developed with:** Oxana Vorobieva (art).
-
-**Position:** gameplay programmer.
-
-**Tasks:** controls, gameplay mechanics and UI implementation.
-
-**Tools:** Unity, Microsoft Visual Studio.
 ***
 
 ## Game Design Documents
