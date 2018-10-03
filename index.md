@@ -23,7 +23,7 @@ Here you'll find some of the projects I made during my studies, as well as other
 
 *Paintball: The Game* is a multiplayer online first person shooter inspired by the sport also known as Paintball. Two teams of 5 players compete between each other to achieve the maximum points possible at the end of each round, eliminating players of the enemy team while avoiding enemy paintballs flying through the level.
 
-**Tools:** Unity 5, Visual Studio 2015, 3DS Max 2016 and Krita
+**Tools:** Unity 5, Visual Studio 2015, 3DS Max 2016 and Krita.
 
 **Game document:** <https://drive.google.com/open?id=0B5Ie2J4fFof6M3RIQ3NqNC1uNUU>
 
@@ -32,24 +32,24 @@ Here you'll find some of the projects I made during my studies, as well as other
 
 [HIVE](https://store.steampowered.com/app/468330/HIVE_Altenum_Wars/) is a multiplayer online side-scrolling sci-fi shooter where two teams up to 10 players fight on HIVE's planet core. The battle is set on an hexagonal shaped map splitted into 6 different zones, each one with its own gravity direction. You can play heroes of different races and equip them with weapons and abilities of your choice to fit your favourite game style and combine with the rest of the team to reach the most competitive set.
 
-**Position:** gameplay programmer
+**Position:** gameplay programmer.
 
-**Tasks:** implementation of different weapons and abilities for the game
+**Tasks:** implementation of different weapons and abilities for the game.
 
-**Tools:** Unreal Engine 4 and Visual Studio Community
+**Tools:** Unreal Engine 4 and Visual Studio Community.
 
 ## Destruction and Euphoria
 ![](http://i.imgur.com/yrFddnb.jpg)
 
 Destruction and Euphoria is a turn based strategy game which takes inspiration from Fire Emblem and Advance Wars where the player controls an army and has to complete different objectives on each map (team deathmatch, conquest and king of the hill).
 
-**Developed with:** Javier Serrano Candel (AI) and Oxana Vorobieva (art)
+**Developed with:** Javier Serrano Candel (AI) and Oxana Vorobieva (art).
 
-**Position:** programmer
+**Position:** programmer.
 
 **Tasks:** level editor, UI programming, gameplay mechanics and player interaction.
 
-**Tools:** Unity 5 and Visual Studio 2015
+**Tools:** Unity 5, Visual Studio 2015.
 
 ## Bikes: Master Racers
 ![](http://i.imgur.com/CUG6nhy.jpg)
@@ -59,11 +59,11 @@ Bikes: Master Racers is a racing game where the player controls a bike and compe
 
 **Developed with:** Oxana Vorobieva (art)
 
-**Position:** programmer
+**Position:** programmer.
 
 **Tasks:** bike mechanics and AI.
 
-**Tools:** Unity 5 and Mono Develop
+**Tools:** Unity 5 and Mono Develop.
 
 ## John's Magical Adventure
 ![Game mode](http://i.imgur.com/lm0tvwq.png)
@@ -73,14 +73,28 @@ Bikes: Master Racers is a racing game where the player controls a bike and compe
 
 John's Magical Adventure is a 2D adventure game inspired by The Legend of Zelda developed for Internet browsers. Help John reach the portal at the end of the level while defeating monsters using different spells.
 
-**Developed with:** Adrián Carboneras Mas (art and programming)
+**Developed with:** Adrián Carboneras Mas (art and programming).
 
-**Position:** programmer
+**Position:** programmer.
 
 **Tasks:** creating a camera and level editor for the game, and the custom physics used in the game.
 
-**Tools:** Flash Develop (IDE)
+**Tools:** Flash Develop (IDE).
 
+
+## 2038 Effect
+![](https://i.imgur.com/jslwk0g.png)
+![](https://i.imgur.com/5RTc5yt.png)
+
+
+
+**Developed with:** Oxana Vorobieva (art).
+
+**Position:** gameplay programmer.
+
+**Tasks:** controls, gameplay mechanics and UI implementation.
+
+**Tools:** Unity, Microsoft Visual Studio.
 ***
 
 ## Game Design Documents
