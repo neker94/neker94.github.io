@@ -41,7 +41,7 @@ Here you'll find some of the projects I made during my studies, as well as other
 
 
 ## 2038 Effect
-![](https://github.com/neker94/neker94.github.io/blob/master/images/2038.png)
+![](https://i.imgur.com/5uZzEf2.png)
 
 Defend your lab using your loyal robots against cute mutated scientists who have gone rogue! In this game you'll have to build your tower and fill it with your creations while fighting against mutants while managing your resources. Mobile game presented at the [Hackathon Castellon 2018](https://www.hackathoncastellon.com/) developed in less than 40 hours.
 
